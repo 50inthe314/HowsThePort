@@ -1,0 +1,18 @@
+.box-art{
+	height: 200px;
+	width: 160px;
+}
+.good-quality
+{
+	color: #00CC33 !important;
+}
+.bad-quality
+{
+	color: #D00000 !important;
+}
+.tags{
+	display: inline-block;
+}
+h3 {
+	display: inline-block;
+}
