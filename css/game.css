@@ -5,6 +5,12 @@
 	width: 200px;
 	float: left;
 }
+
+.thumbnail
+{
+	height: 50px;
+	width: 30px;
+}
 .category
 {
 	display: inline-block;
@@ -42,9 +48,16 @@ font-size:30px;
 color:#fff;
 line-height:75px;
 text-align:center;
-background:#D00000;
 display: inline-block;
 font-weight: bold;
+}
+.good-rating
+{
+	background: #00CC33;
+}
+.bad-rating
+{
+	background: #D00000;
 }
 .port-rating
 {
@@ -59,4 +72,16 @@ font-weight: bold;
 .tags h5
 {
 	font-size: 11px !important;
+}
+
+.games
+{
+	width: 300px;
+	max-height: 62px !important;
+}
+
+.games .select2-results
+{
+	max-width: 500px !important;
+	max-height: 62px !important;
 }
