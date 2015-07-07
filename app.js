@@ -18,7 +18,19 @@
 				{ tagName: 'Consistent Crashing', upvotes: 51, goodQuality: false}, 
 				{ tagName: '5.1 Surround Sound', upvotes: 38, goodQuality: true}, 
 				{ tagName: 'No Dual Monitor Support', upvotes: 37, goodQuality: false}, 
-				{ tagName: 'Unstable Framerates', upvotes: 29, goodQuality: false}]
+				{ tagName: 'Unstable Framerates', upvotes: 29, goodQuality: false}],
+				customization: [
+				{ tagName: '30 FPS cap2', upvotes: 56, goodQuality: false}, 
+				{ tagName: 'Consistent Crashing2', upvotes: 51, goodQuality: false}, 
+				{ tagName: '5.1 Surround Sound2', upvotes: 38, goodQuality: true}, 
+				{ tagName: 'No Dual Monitor Support2', upvotes: 37, goodQuality: false}, 
+				{ tagName: 'Unstable Framerates2', upvotes: 29, goodQuality: false}],
+				features: [
+				{ tagName: '30 FPS cap3', upvotes: 56, goodQuality: false}, 
+				{ tagName: 'Consistent Crashing3', upvotes: 51, goodQuality: false}, 
+				{ tagName: '5.1 Surround Sound3', upvotes: 38, goodQuality: true}, 
+				{ tagName: 'No Dual Monitor Support3', upvotes: 37, goodQuality: false}, 
+				{ tagName: 'Unstable Framerates3', upvotes: 29, goodQuality: false}]
 			}			
 		},
 		{
@@ -35,7 +47,19 @@
 				{ tagName: 'No Crashing', upvotes: 51, goodQuality: true}, 
 				{ tagName: '7.1 Surround Sound', upvotes: 39, goodQuality: true}, 
 				{ tagName: 'Dual Monitor Support', upvotes: 38, goodQuality: true}, 
-				{ tagName: 'Smooth Framerates', upvotes: 35, goodQuality: true}]
+				{ tagName: 'Smooth Framerates', upvotes: 35, goodQuality: true}],
+				customization: [
+				{ tagName: '30 FPS cap2', upvotes: 56, goodQuality: false}, 
+				{ tagName: 'Consistent Crashing2', upvotes: 51, goodQuality: false}, 
+				{ tagName: '5.1 Surround Sound2', upvotes: 38, goodQuality: true}, 
+				{ tagName: 'No Dual Monitor Support2', upvotes: 37, goodQuality: false}, 
+				{ tagName: 'Unstable Framerates2', upvotes: 29, goodQuality: false}],
+				features: [
+				{ tagName: '30 FPS cap3', upvotes: 56, goodQuality: false}, 
+				{ tagName: 'Consistent Crashing3', upvotes: 51, goodQuality: false}, 
+				{ tagName: '5.1 Surround Sound3', upvotes: 38, goodQuality: true}, 
+				{ tagName: 'No Dual Monitor Support3', upvotes: 37, goodQuality: false}, 
+				{ tagName: 'Unstable Framerates3', upvotes: 29, goodQuality: false}]
 			}
 		},
 		{
@@ -52,7 +76,19 @@
 				{ tagName: 'No Crashing', upvotes: 51, goodQuality: true}, 
 				{ tagName: '7.1 Surround Sound', upvotes: 39, goodQuality: true}, 
 				{ tagName: 'Dual Monitor Support', upvotes: 38, goodQuality: true}, 
-				{ tagName: 'Smooth Framerates', upvotes: 35, goodQuality: true}]
+				{ tagName: 'Smooth Framerates', upvotes: 35, goodQuality: true}],
+				customization: [
+				{ tagName: '30 FPS cap2', upvotes: 56, goodQuality: false}, 
+				{ tagName: 'Consistent Crashing2', upvotes: 51, goodQuality: false}, 
+				{ tagName: '5.1 Surround Sound2', upvotes: 38, goodQuality: true}, 
+				{ tagName: 'No Dual Monitor Support2', upvotes: 37, goodQuality: false}, 
+				{ tagName: 'Unstable Framerates2', upvotes: 29, goodQuality: false}],
+				features: [
+				{ tagName: '30 FPS cap3', upvotes: 56, goodQuality: false}, 
+				{ tagName: 'Consistent Crashing3', upvotes: 51, goodQuality: false}, 
+				{ tagName: '5.1 Surround Sound3', upvotes: 38, goodQuality: true}, 
+				{ tagName: 'No Dual Monitor Support3', upvotes: 37, goodQuality: false}, 
+				{ tagName: 'Unstable Framerates3', upvotes: 29, goodQuality: false}]
 			}
 		},
 		{
@@ -69,7 +105,19 @@
 				{ tagName: 'No Crashing', upvotes: 51, goodQuality: true}, 
 				{ tagName: '7.1 Surround Sound', upvotes: 39, goodQuality: true}, 
 				{ tagName: 'Dual Monitor Support', upvotes: 38, goodQuality: true}, 
-				{ tagName: 'Smooth Framerates', upvotes: 35, goodQuality: true}]
+				{ tagName: 'Smooth Framerates', upvotes: 35, goodQuality: true}],
+				customization: [
+				{ tagName: '30 FPS cap2', upvotes: 56, goodQuality: false}, 
+				{ tagName: 'Consistent Crashing2', upvotes: 51, goodQuality: false}, 
+				{ tagName: '5.1 Surround Sound2', upvotes: 38, goodQuality: true}, 
+				{ tagName: 'No Dual Monitor Support2', upvotes: 37, goodQuality: false}, 
+				{ tagName: 'Unstable Framerates2', upvotes: 29, goodQuality: false}],
+				features: [
+				{ tagName: '30 FPS cap3', upvotes: 56, goodQuality: false}, 
+				{ tagName: 'Consistent Crashing3', upvotes: 51, goodQuality: false}, 
+				{ tagName: '5.1 Surround Sound3', upvotes: 38, goodQuality: true}, 
+				{ tagName: 'No Dual Monitor Support3', upvotes: 37, goodQuality: false}, 
+				{ tagName: 'Unstable Framerates3', upvotes: 29, goodQuality: false}]
 			}
 		},
 		{
@@ -86,7 +134,19 @@
 				{ tagName: 'No Crashing', upvotes: 51, goodQuality: true}, 
 				{ tagName: '7.1 Surround Sound', upvotes: 39, goodQuality: true}, 
 				{ tagName: 'Dual Monitor Support', upvotes: 38, goodQuality: true}, 
-				{ tagName: 'Smooth Framerates', upvotes: 35, goodQuality: true}]
+				{ tagName: 'Smooth Framerates', upvotes: 35, goodQuality: true}],
+				customization: [
+				{ tagName: '30 FPS cap2', upvotes: 56, goodQuality: false}, 
+				{ tagName: 'Consistent Crashing2', upvotes: 51, goodQuality: false}, 
+				{ tagName: '5.1 Surround Sound2', upvotes: 38, goodQuality: true}, 
+				{ tagName: 'No Dual Monitor Support2', upvotes: 37, goodQuality: false}, 
+				{ tagName: 'Unstable Framerates2', upvotes: 29, goodQuality: false}],
+				features: [
+				{ tagName: '30 FPS cap3', upvotes: 56, goodQuality: false}, 
+				{ tagName: 'Consistent Crashing3', upvotes: 51, goodQuality: false}, 
+				{ tagName: '5.1 Surround Sound3', upvotes: 38, goodQuality: true}, 
+				{ tagName: 'No Dual Monitor Support3', upvotes: 37, goodQuality: false}, 
+				{ tagName: 'Unstable Framerates3', upvotes: 29, goodQuality: false}]
 			}
 		},
 		{
@@ -103,7 +163,19 @@
 				{ tagName: 'No Crashing', upvotes: 51, goodQuality: true}, 
 				{ tagName: '7.1 Surround Sound', upvotes: 39, goodQuality: true}, 
 				{ tagName: 'Dual Monitor Support', upvotes: 38, goodQuality: true}, 
-				{ tagName: 'Smooth Framerates', upvotes: 35, goodQuality: true}]
+				{ tagName: 'Smooth Framerates', upvotes: 35, goodQuality: true}],
+				customization: [
+				{ tagName: '30 FPS cap4', upvotes: 56, goodQuality: false}, 
+				{ tagName: 'Consistent Crashing4', upvotes: 51, goodQuality: false}, 
+				{ tagName: '5.1 Surround Sound4', upvotes: 38, goodQuality: true}, 
+				{ tagName: 'No Dual Monitor Support4', upvotes: 37, goodQuality: false}, 
+				{ tagName: 'Unstable Framerates4', upvotes: 29, goodQuality: false}],
+				features: [
+				{ tagName: '30 FPS cap5', upvotes: 56, goodQuality: false}, 
+				{ tagName: 'Consistent Crashing5', upvotes: 51, goodQuality: false}, 
+				{ tagName: '5.1 Surround Sound5', upvotes: 38, goodQuality: true}, 
+				{ tagName: 'No Dual Monitor Support5', upvotes: 37, goodQuality: false}, 
+				{ tagName: 'Unstable Framerates5', upvotes: 29, goodQuality: false}]
 			}
 		},{
 			id: 7,
@@ -119,7 +191,19 @@
 				{ tagName: 'No Crashing', upvotes: 51, goodQuality: true}, 
 				{ tagName: '7.1 Surround Sound', upvotes: 39, goodQuality: true}, 
 				{ tagName: 'Dual Monitor Support', upvotes: 38, goodQuality: true}, 
-				{ tagName: 'Smooth Framerates', upvotes: 35, goodQuality: true}]
+				{ tagName: 'Smooth Framerates', upvotes: 35, goodQuality: true}],
+				customization: [
+				{ tagName: '30 FPS cap2', upvotes: 56, goodQuality: false}, 
+				{ tagName: 'Consistent Crashing2', upvotes: 51, goodQuality: false}, 
+				{ tagName: '5.1 Surround Sound2', upvotes: 38, goodQuality: true}, 
+				{ tagName: 'No Dual Monitor Support2', upvotes: 37, goodQuality: false}, 
+				{ tagName: 'Unstable Framerates2', upvotes: 29, goodQuality: false}],
+				features: [
+				{ tagName: '30 FPS cap3', upvotes: 56, goodQuality: false}, 
+				{ tagName: 'Consistent Crashing3', upvotes: 51, goodQuality: false}, 
+				{ tagName: '5.1 Surround Sound3', upvotes: 38, goodQuality: true}, 
+				{ tagName: 'No Dual Monitor Support3', upvotes: 37, goodQuality: false}, 
+				{ tagName: 'Unstable Framerates3', upvotes: 29, goodQuality: false}]
 			}
 		}];
 
